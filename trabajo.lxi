@@ -1,0 +1,24 @@
+B 3 C o m p i l a t i o n
+B 112 Equation Listing    SOLVE TGIMODEL Using LP From line 99
+D 115 OBJ
+D 120 CAP
+D 131 DEMAND
+D 142 BAL
+B 154 Column Listing      SOLVE TGIMODEL Using LP From line 99
+E 157 Y
+E 176 X
+E 200 A
+E 221 Z
+E 228 Slack
+B 248 Range Statistics    SOLVE TGIMODEL Using LP From line 99
+B 259 Model Statistics    SOLVE TGIMODEL Using LP From line 99
+B 272 Solution Report     SOLVE TGIMODEL Using LP From line 99
+F 305 OBJ
+F 309 CAP
+F 324 DEMAND
+F 339 BAL
+G 374 Y
+G 389 X
+G 434 A
+G 481 Z
+G 485 Slack
